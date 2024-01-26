@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">I am Vukani Gcabashe, but you already knew that, so I am from Empangeni Region but currently live in Durban</p>
 
 ###
 
@@ -10,7 +10,18 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2022
+
+<br>
+  📚 I'm currently learning: <br/>
+  - PHP <br/>
+  - DOCKER <br/>
+  - VUE-JS <br/>
+  - MYSQL <br/>
+<br>🎯 Goals: ...<br>
+
+🎲 Fun fact: <br/> 
+I actualy love Cyber Security but I enjoy being a dev so I am basking in that fun lol.</p>
 
 ###
 
